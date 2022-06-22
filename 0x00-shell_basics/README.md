@@ -1,1 +1,1 @@
-script path
+content list
